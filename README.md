@@ -1,6 +1,6 @@
 ## ⚠️ ATTENTION!
 
-This application is under development. Errors and bugs may occur.
+This application is under development. Errors and bugs may occour.
 
 # KHOS System Monitor
 
@@ -12,11 +12,11 @@ A lightweight system monitoring application for Linux that provides real-time in
 - **Memory Monitoring**: Monitor RAM usage and swap space  
 - **Disk Monitoring**: Track disk usage and I/O performance  
 - **Network Monitoring**: Monitor network traffic with download/upload speeds  
-- **GPU Monitoring**: Track GPU usage and memory with support for:
+- **GPU Monitoring**: Track GPU and Memory usage on these supported GPUs:
   - NVIDIA GPUs (via `nvidia-smi`)
-  - AMD GPUs (via `sysfs`)
-  - Intel GPUs (via `intel_gpu_top` and system information)
-  - Multiple GPU support with separate tabs for each detected GPU
+  - AMD GPUs (via `sysfs`) (not tested)
+  - Intel GPUs (via `intel_gpu_top` and system information)(not tested)
+  - Multiple GPU support with separate tabs for each detected GPU (expremental)(not tested)
 
 ## Dependencies
 
