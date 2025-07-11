@@ -15,7 +15,7 @@ A lightweight system monitoring application for Linux that provides real-time in
 - **GPU Monitoring**: Track GPU and Memory usage on these supported GPUs:
   - NVIDIA GPUs (via `nvidia-smi`)
   - AMD GPUs (via `sysfs`) (not tested)
-  - Intel GPUs (via `intel_gpu_top` and system information)(not tested)
+  - Intel GPUs (via `intel_gpu_top` and system information)(not tested on Intel GPU. App tested only intel İntegrated GPU)
   - Multiple GPU support with separate tabs for each detected GPU (expremental)(not tested)
 
 ## Dependencies
