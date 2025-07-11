@@ -40,7 +40,7 @@ sudo make install
 ## Uninstalling
 
 ```bash
-sudo make Uninstalling
+sudo make uninstall
 ```
 
 ## Running
@@ -68,4 +68,4 @@ sudo make Uninstalling
 
 ## License
 
-This project is open source. 
+This project is licanced under GPL3.0 
