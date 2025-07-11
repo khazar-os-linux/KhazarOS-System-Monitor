@@ -1,6 +1,6 @@
 ## ATTENTION !
 
-This application is under development. Errors and bugs may occur.
+This application is under development. Errors and bugs may occour.
 
 
 # KHOS System Monitor
