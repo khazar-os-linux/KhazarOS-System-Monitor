@@ -1,4 +1,4 @@
-## ATTENTİON !
+## ATTENTION !
 
 This application is under development. Errors and bugs may occur.
 
