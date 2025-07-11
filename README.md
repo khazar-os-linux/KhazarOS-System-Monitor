@@ -2,7 +2,7 @@
 
 This application is under development. Errors and bugs may occour.
 
-# KHOS System Monitor
+# KhazarOS System Monitor
 
 A lightweight system monitoring application for Linux that provides real-time information about your system's performance.
 
@@ -22,7 +22,7 @@ A lightweight system monitoring application for Linux that provides real-time in
 
 - GTK3  
 - GLib  
-- For NVIDIA GPU monitoring: `nvidia-smi`  
+- For NVIDIA GPU monitoring: `nvidia-smi` (not tested on OSS NVIDIA kernel modules)
 - For Intel GPU monitoring: `intel-gpu-tools` (optional, for better monitoring)
 
 ## Building
