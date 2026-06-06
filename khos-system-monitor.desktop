@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System;Utility;
+Comment[en_US]=Monitor system performance and manage running applications
+Comment=Monitor system performance and manage running applications
+Exec=khos-system-monitor
+GenericName[en_US]=System Monitor
+GenericName=System Monitor
+Icon=khos-system-monitor
+Keywords=system;monitor;performance;process;
+MimeType=
+Name[en_US]=System Monitor
+Name=System Monitor
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+StartupWMClass=khos-system-monitor
+X-KDE-SubstituteUID=false
+X-KDE-Username=
